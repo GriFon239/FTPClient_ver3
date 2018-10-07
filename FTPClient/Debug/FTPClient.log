@@ -1,0 +1,14 @@
+﻿  BD_work.cpp
+c:\project\ftpclient\ftpclient\bd_work.cpp(44): warning C4018: <: несоответствие типов со знаком и без знака
+c:\project\ftpclient\ftpclient\bd_work.cpp(77): warning C4101: ex: неиспользованная локальная переменная
+c:\project\ftpclient\ftpclient\bd_work.cpp(104): warning C4101: ex: неиспользованная локальная переменная
+c:\project\ftpclient\ftpclient\bd_work.cpp(135): warning C4101: ex: неиспользованная локальная переменная
+  Decompression_ver2.cpp
+  MyForm.cpp
+c:\project\ftpclient\ftpclient\myform.cpp(9): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  To_Hash.cpp
+c:\project\ftpclient\ftpclient\to_hash.cpp(13): warning C4244: аргумент: преобразование "std::streamsize" в "size_t", возможна потеря данных
+  Создание кода...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  BD_work.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  FTPClient.vcxproj -> C:\Project\FTPClient\Debug\FTPClient.exe

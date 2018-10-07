@@ -1,0 +1,8 @@
+﻿  BD_work.cpp
+c:\project\ftpclient\ftpclient\to_hash.h(3): fatal error C1083: Не удается открыть файл включение: openssl/md5.h: No such file or directory,
+  Decompression_ver2.cpp
+  MyForm.cpp
+c:\project\ftpclient\ftpclient\myform.cpp(9): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  To_Hash.cpp
+c:\project\ftpclient\ftpclient\to_hash.h(3): fatal error C1083: Не удается открыть файл включение: openssl/md5.h: No such file or directory,
+  Создание кода...
